@@ -8,3 +8,4 @@ To run, just run `npm start`
 - Node.js
 - Express
 - nodemon
+- ESLint
