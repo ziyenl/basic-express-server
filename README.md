@@ -9,3 +9,8 @@ To run, just run `npm start`
 - Express
 - nodemon
 - ESLint
+
+
+## ESLint setup
+- `npx eslint --init`
+- `npx eslint .`
